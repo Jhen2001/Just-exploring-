@@ -1,0 +1,22 @@
+---
+title: "**Exploring Quarto**"
+author: "**Jennifer B. Guay**"
+date: "2022-11-22"
+output: html_document
+---
+### 1. **What packages are they talking about?** 
+- -	They are discussing about the new packages of rstudio which called Quarto. They believe that Quarto was developed to be multilingual, beginning with R, Python, JavaScript, and Julia, with the idea that it will work even for languages that don’t yet exist. The goal of Quarto is to make the process of creating and collaborating on scientific and technical documents dramatically better. 
+
+
+### 2. **Why is there a shift from rmarkdown to the packages?** 
+- -	There is a shift from rmarkdown to the Quarto because  Allaire believes that one of the biggest Quarto advantages is assistance in writing YAML, the language used for both R Markdown and Quarto document header information.
+
+### 3. **What inspired them to the said packages?**
+- -	They are inspired on how Quarto enables to collaborate across coding languages. Julia Stewart Lowndes, founder and co-director at Opens capes, said during  Studio Conference keynote. Opens capes worked with NASA as early Quarto beta testers and found that Quarto made it much easier for Python and R users to work together Allaire said.  
+
+### 4. **Are you up to the challegnes of this said shift learning it and applying it in your future carrers as a future teacher.**
+- -	Based from the work and experience from the Video, I guess Quarto have a benefits mostly to the scientist who are needs different languages to describe their findings in space but for me as an future math educator  I may use it but not frequently and less priority since there are some apps that can easily use and store files. As for being up to the challenges to shift learning, I guess i will not take an efforts since there's a lots of codes to be memories packages to be downloaded and different website to be open in order to operate when in facts there is more apps like Microsoft, google drive used to save files and other applicable apps that is easy way to use in teaching and learning.   
+
+
+### 5. **What cool features in the packages did you like best? Please discuss?** 
+- - The best about quarto is that it has a multi-language, a generation version of R Markdown from RStudio. It includes dozens of new features and capabilities while at the same being able to render most existing Rmd files without modification. Quarto enables collaborating across coding languages. You can able to export Quarto documents in more than 40 different file formats including Word, OpenOffice, PowerPoint and etc.

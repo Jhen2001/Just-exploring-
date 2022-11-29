@@ -1,0 +1,19 @@
+---
+title: "Dta wrangling"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse) #loading necessary packages
+```
+
+# creating a tibble
+```{r}
+tribble(~number, ~letter,   ~greek,
+              1,     "a",  "alpha",
+              2,     "b",   "beta",
+              3,     "c",  "gamma")
+```
+
+
+
